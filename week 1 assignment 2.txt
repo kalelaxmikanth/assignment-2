@@ -1,0 +1,10 @@
+// week 1 assignment 2
+// question 1 
+// output: 0
+// question 2
+// output: 1 1
+// question 3
+// output: 2
+// question 6
+// output: 49
+// question 4 and 5 i dont know answers
