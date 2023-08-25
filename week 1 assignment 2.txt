@@ -5,6 +5,36 @@
 // output: 1 1
 // question 3
 // output: 2
+// question 4
+// double radius, height;
+//     cout << "Enter the radius of the cylinder: ";
+//     cin >> radius;
+    
+//     cout << "Enter the height of the cylinder: ";
+//     cin >> height;
+    
+//     // Volume of cylinder formula: V = π * r^2 * h
+//     double volume = M_PI * pow(radius, 2) * height;
+    
+//     cout << "Volume of the cylinder: " << volume << " cubic units" << endl;
+// output is:
+// Enter the radius of the cylinder: 6
+// Enter the height of the cylinder: 7
+// Volume of the cylinder: 791.681 cubic units  
+// question 5
+// char char1, char2;
+    
+//     cout << "Enter the first character: ";
+//     cin >> char1;
+    
+//     cout << "Enter the second character: ";
+//     cin >> char2;
+    
+//     int asciiDiff = abs(static_cast<int>(char1) - static_cast<int>(char2));
+    
+//     cout << "The difference between the ASCII values of '" << char1 << "' and '" << char2 << "' is: " << asciiDiff << endl; 
+//     output is : Enter the first character: a      
+// Enter the second character: b     
+// The difference between the ASCII values of 'a' and 'b' is: 1     
 // question 6
 // output: 49
-// question 4 and 5 i dont know answers
